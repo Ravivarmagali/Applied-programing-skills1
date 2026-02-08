@@ -12,6 +12,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
