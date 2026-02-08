@@ -80,9 +80,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
