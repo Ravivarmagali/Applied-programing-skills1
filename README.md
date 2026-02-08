@@ -15,6 +15,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
