@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
