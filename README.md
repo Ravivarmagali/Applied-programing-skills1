@@ -28,6 +28,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
