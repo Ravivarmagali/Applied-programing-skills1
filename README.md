@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
@@ -14,10 +15,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
