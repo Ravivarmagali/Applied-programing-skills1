@@ -68,6 +68,7 @@
 | [0344-reverse-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
