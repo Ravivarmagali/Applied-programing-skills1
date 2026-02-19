@@ -16,6 +16,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -82,6 +83,7 @@
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -141,4 +143,8 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
