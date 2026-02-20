@@ -70,6 +70,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0739-daily-temperatures) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
