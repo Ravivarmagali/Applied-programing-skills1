@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Stack
 |  |
@@ -112,6 +114,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
