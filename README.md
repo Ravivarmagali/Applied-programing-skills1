@@ -90,6 +90,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
@@ -159,6 +160,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
 ## Queue
 |  |
