@@ -114,6 +114,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
@@ -157,6 +158,7 @@
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Matrix
 |  |
@@ -181,6 +183,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
