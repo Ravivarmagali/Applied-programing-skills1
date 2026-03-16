@@ -76,6 +76,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
@@ -176,6 +177,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
