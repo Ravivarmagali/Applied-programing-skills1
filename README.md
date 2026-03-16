@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
@@ -58,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
@@ -140,6 +142,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
@@ -193,6 +196,7 @@
 | [0155-min-stack](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
@@ -210,4 +214,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
