@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
+| [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -84,6 +85,7 @@
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -192,13 +195,19 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
