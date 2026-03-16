@@ -59,6 +59,7 @@
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
+| [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
@@ -99,6 +100,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
+| [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
