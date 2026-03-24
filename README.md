@@ -218,4 +218,20 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
