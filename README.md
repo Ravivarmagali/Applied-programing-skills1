@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
@@ -117,6 +120,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
