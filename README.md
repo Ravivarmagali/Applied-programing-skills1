@@ -152,6 +152,7 @@
 | [0206-reverse-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
@@ -208,6 +209,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1472-design-browser-history) |
