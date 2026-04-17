@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
