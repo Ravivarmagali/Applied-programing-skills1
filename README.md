@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
@@ -42,6 +43,7 @@
 | [0234-palindrome-linked-list](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -65,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
@@ -129,6 +133,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Simulation
