@@ -306,6 +306,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -314,6 +315,7 @@
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
@@ -374,10 +376,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
