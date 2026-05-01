@@ -134,6 +134,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0232-implement-queue-using-stacks) |
@@ -318,6 +319,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
@@ -325,6 +327,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0210-course-schedule-ii) |
@@ -362,6 +365,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
