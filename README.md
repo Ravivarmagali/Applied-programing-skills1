@@ -329,6 +329,7 @@
 | [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -399,6 +400,7 @@
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
