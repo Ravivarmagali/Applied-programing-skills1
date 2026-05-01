@@ -87,12 +87,14 @@
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
+| [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -192,6 +195,7 @@
 | [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -293,4 +297,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
