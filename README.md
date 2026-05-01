@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -76,6 +77,7 @@
 | [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -101,6 +103,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -243,6 +246,7 @@
 | [0190-reverse-bits](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
@@ -251,6 +255,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -262,6 +267,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
@@ -403,6 +409,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
@@ -430,6 +437,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
