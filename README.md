@@ -38,6 +38,7 @@
 | [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
+| [0929-unique-email-addresses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@
 | [0721-accounts-merge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
+| [0929-unique-email-addresses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
@@ -164,6 +166,7 @@
 | [0721-accounts-merge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
+| [0929-unique-email-addresses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
