@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
@@ -149,6 +150,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -194,6 +196,7 @@
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Counting
 |  |
 | ------- |
@@ -298,4 +302,16 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
