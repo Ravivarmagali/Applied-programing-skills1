@@ -36,6 +36,7 @@
 | [0946-validate-stack-sequences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
 ## String Matching
 |  |
@@ -313,6 +315,7 @@
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
