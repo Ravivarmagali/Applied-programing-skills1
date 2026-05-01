@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
@@ -360,5 +361,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
