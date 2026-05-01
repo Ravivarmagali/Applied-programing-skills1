@@ -22,6 +22,7 @@
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0474-ones-and-zeroes) |
@@ -256,6 +257,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
