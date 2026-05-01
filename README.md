@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
@@ -70,6 +72,7 @@
 | [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0290-word-pattern) |
@@ -186,6 +189,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -199,6 +203,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1603-design-parking-system) |
