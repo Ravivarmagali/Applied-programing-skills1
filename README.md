@@ -80,6 +80,7 @@
 | [0721-accounts-merge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0929-unique-email-addresses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
@@ -323,6 +325,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [0721-accounts-merge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -358,6 +362,7 @@
 | [0721-accounts-merge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -370,6 +375,7 @@
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
