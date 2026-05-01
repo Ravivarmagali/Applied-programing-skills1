@@ -18,6 +18,7 @@
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
@@ -64,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -349,4 +351,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
