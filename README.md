@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
@@ -321,6 +322,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
 ## Binary Indexed Tree
@@ -355,4 +357,8 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
