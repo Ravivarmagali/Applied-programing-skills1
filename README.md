@@ -24,6 +24,7 @@
 | [0474-ones-and-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0739-daily-temperatures) |
@@ -245,6 +246,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
@@ -308,6 +310,7 @@
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -317,6 +320,7 @@
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -377,6 +381,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
