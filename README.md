@@ -36,6 +36,7 @@
 | [0946-validate-stack-sequences](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1314-matrix-block-sum](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1408-string-matching-in-an-array) |
@@ -96,6 +97,7 @@
 | [0705-design-hashset](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
+| [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1396-design-underground-system) |
 | [1763-longest-nice-substring](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1763-longest-nice-substring) |
@@ -373,5 +375,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
