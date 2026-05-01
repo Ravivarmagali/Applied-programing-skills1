@@ -101,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
@@ -327,4 +329,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
