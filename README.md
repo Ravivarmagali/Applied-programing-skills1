@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0283-move-zeroes) |
@@ -248,6 +249,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0867-transpose-matrix) |
@@ -311,6 +313,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
@@ -324,6 +327,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
@@ -393,6 +397,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
