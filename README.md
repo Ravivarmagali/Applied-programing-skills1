@@ -303,6 +303,7 @@
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,4 +366,12 @@
 | [0046-permutations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
