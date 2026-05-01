@@ -17,6 +17,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0704-binary-search) |
@@ -141,6 +142,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0474-ones-and-zeroes) |
 | [0771-jewels-and-stones](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1002-find-common-characters) |
@@ -177,6 +179,7 @@
 | [0070-climbing-stairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0918-maximum-sum-circular-subarray) |
