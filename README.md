@@ -308,6 +308,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0101-symmetric-tree) |
+| [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
@@ -388,8 +390,13 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
