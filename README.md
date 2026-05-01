@@ -161,6 +161,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0387-first-unique-character-in-a-string) |
@@ -326,6 +327,7 @@
 | [0113-path-sum-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0257-binary-tree-paths) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -341,6 +343,7 @@
 | [0200-number-of-islands](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0695-max-area-of-island) |
@@ -382,6 +385,7 @@
 | [0113-path-sum-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -432,6 +436,7 @@
 | [0077-combinations](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0257-binary-tree-paths) |
 ## Union-Find
 |  |
 | ------- |
