@@ -491,4 +491,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ravivarmagali/Applied-programing-skills1/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
